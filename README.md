@@ -5,7 +5,7 @@ USAGE:
 
 This application reads a csv and creates a quiz CLI application.
 
-It reads `VALUE1,VALUE2` from the csv skipping the header line should you want to change the csv file.
+It reads `VALUE1,VALUE2` from the csv & skips the first line for the titles should you want to change the csv file.
 
 ```
 
